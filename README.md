@@ -28,7 +28,7 @@
 ### GitHub Stats:
 <p align="center">
   <a href="https://github.com/abhik017">
-    <img src="https://github-readme-stats.vercel.app/api?username=abhik016&show_icons=true&hide=issues&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=abhik017&show_icons=true&hide=issues&theme=radical"/>
   </a>
 </p>
 
