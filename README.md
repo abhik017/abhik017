@@ -6,7 +6,7 @@
 
 <p>
  <i>
-    Software Developer with curious mindset is today's equivalent to a Nuclear Bomb! Guess who're we talkin about.<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>.
+    Software Developer with a curious mindset is today's equivalent to a Nuclear Bomb! Guess who're we talkin about.<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>.
  </i>
 </p>
 
@@ -16,7 +16,7 @@
 
 - 🎓 I am a senior undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
 - 👨‍ I consider myself a good chess player and like to keep evolving.
-- ⚡ I am also, currently looking to collaborate with people/organizations and enhance my skills as a developer. If you have some Idea and think I can be of help, do ping me!
+- ⚡ I am also, currently looking to collaborate with people/organizations and enhance my skills as a developer. If you have an idea and think I can be of help, do ping me!
 - 🏋 I also love learning about Finance, and I am a moderately skilled Technical Analyst.
 
 ---
