@@ -6,7 +6,7 @@
 
 <p>
  <i>
-    Software Developer with a curious mindset is today's equivalent to a Nuclear Bomb! Guess who're we talkin about.<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>.
+    Software Developer with a curious mindset is a Nuclear Bomb! Guess who're we talkin about.<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>.
  </i>
 </p>
 
