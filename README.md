@@ -13,8 +13,8 @@
 ---
 
 ### About Me:
-
-- 🎓 I am a senior undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
+- I am Software Development Engineer at Wells Fargo.
+- 🎓 I am a graduate from <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
 - 👨‍ I consider myself a good chess player and like to keep evolving.
 - ⚡ I am also, currently looking to collaborate with people/organizations and enhance my skills as a developer. If you have an idea and think I can be of help, do ping me!
 - 🏋 I also love learning about Finance, and I am a moderately skilled Technical Analyst.
