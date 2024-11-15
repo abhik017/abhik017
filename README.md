@@ -13,7 +13,7 @@
 ---
 
 ### About Me:
-- I am a Senior Software Engineer 2 at Uni Cards.
+- I am a Senior Software Engineer at Uni Cards.
 - 🎓 I am a graduate from <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
 - 👨‍ I consider myself a good chess player and like to keep evolving.
 - ⚡ I am also, currently looking to collaborate with people/organizations and enhance my skills as a developer. If you have an idea and think I can be of help, do ping me!
